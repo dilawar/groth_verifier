@@ -1,0 +1,6 @@
+[workspace]
+resolver = "2"
+members = [
+  "./near_groth16_verifier",
+  "./verifier_test"
+]
